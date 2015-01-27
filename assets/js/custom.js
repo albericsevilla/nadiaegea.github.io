@@ -241,8 +241,8 @@
 
 		map = new GMaps({
 			el: '#map',
-			lat: 27.998653,
-			lng: -80.638855,
+			lat: 40.416775400000000000,
+			lng: -3.703790199999957600,
 			zoom: 16,
 			scrollwheel: false,
 			zoomControl : false,
